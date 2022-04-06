@@ -1,4 +1,4 @@
-# SQL
+
 
 # Elisa Gruwell's SQL Portfolio
 
